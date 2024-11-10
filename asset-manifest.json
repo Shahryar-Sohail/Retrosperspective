@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Retrosperspective/static/css/main.ac387fed.css",
+    "main.js": "/Retrosperspective/static/js/main.25cd6448.js",
+    "static/js/453.ed3810f9.chunk.js": "/Retrosperspective/static/js/453.ed3810f9.chunk.js",
+    "static/media/slick.svg": "/Retrosperspective/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Retrosperspective/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Retrosperspective/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Retrosperspective/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Retrosperspective/index.html",
+    "main.ac387fed.css.map": "/Retrosperspective/static/css/main.ac387fed.css.map",
+    "main.25cd6448.js.map": "/Retrosperspective/static/js/main.25cd6448.js.map",
+    "453.ed3810f9.chunk.js.map": "/Retrosperspective/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac387fed.css",
+    "static/js/main.25cd6448.js"
+  ]
+}
